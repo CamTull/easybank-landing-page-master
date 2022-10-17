@@ -81,7 +81,7 @@
 }
 .hero__image {
   position: relative;
-  background-image: url(https://camtull.github.io/easybank-landing-page-master/images/bg-intro-mobile.svg");
+  background-image: url("https://camtull.github.io/easybank-landing-page-master/images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
